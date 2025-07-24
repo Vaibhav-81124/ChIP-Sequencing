@@ -13,6 +13,9 @@ awk / bash / pandas – Filtering, scoring, and data extraction
 **Data Source**
 ChIP-seq datasets were obtained from the ENCODE project:
 https://www.encodeproject.org/experiments/ENCSR000AKP/
+H3K27ac ChIP BAM--ENCFF867JTP--Aligned reads (K562)
+Input control BAM--ENCFF600THN--Control input reads
+narrowPeak file--ENCFF153YGA--High-confidence peaks
 
 **Analysis Steps**
 Environment Setup: HOMER, samtools, bedtools installed on Ubuntu
